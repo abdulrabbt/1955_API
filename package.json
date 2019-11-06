@@ -19,6 +19,6 @@
   "homepage": "https://github.com/abdulrabbt/1955_API#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.7.4"
+    "mongoose": "^5.7.5"
   }
 }
